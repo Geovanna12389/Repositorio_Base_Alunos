@@ -1,0 +1,26 @@
+'''
+l = []
+while True:
+    n=int(input("digite um número(0 para saí):"))
+    if n == 0:
+        break
+    l.append(n)
+x=0
+
+while x < len(l):
+    print(l[x])
+    x=x+1
+'''
+
+l = []
+while True:
+    n=(input("palavras( sai):"))
+    if n == "pare":
+        break
+    l.append(n)
+x=0
+
+while x < len(l):
+    print(L)
+    x=x+1
+    
